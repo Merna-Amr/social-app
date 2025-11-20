@@ -3,7 +3,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './pages/Layout'
 import Login from './pages/Login'
 
-import Notfound from './pages/notfound'
+import Notfound from './pages/Notfound.jsx'
 import Home from './pages/home'
 import  AuthContextProvider  from './lib/context/loginConText.jsx'
 import Register from './pages/Register.jsx'
